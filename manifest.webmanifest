@@ -1,5 +1,5 @@
 {
-  "name": "AMELHENS — Observatoire botanique",
+  "name": "AMELHENS – Observatoire botanique",
   "short_name": "AMELHENS",
   "description": "Observatoire botanique et hydrologique du domaine d'Amelhens",
   "lang": "fr-FR",
@@ -9,15 +9,7 @@
   "background_color": "#f3f6f0",
   "theme_color": "#244b37",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    {"src": "/Amelhens-/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/Amelhens-/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
   ]
 }
